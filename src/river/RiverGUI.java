@@ -18,15 +18,16 @@ import river.GameEngine.Location;
  * @author Gregory Kulczycki
  */
 
-/**
- * This is a modification to the RiverGUI.java for CS-5704
- */
 public class RiverGUI extends JPanel implements MouseListener {
 
     // ==========================================================
     // Fields (hotspots)
     // ==========================================================
 
+
+    /**
+     * This is a modification to the RiverGUI.java for CS-5704
+     */
     private final Rectangle leftFarmerRect = new Rectangle(80, 215, 50, 50);
     private final Rectangle leftWolfRect = new Rectangle(20, 215, 50, 50);
     private final Rectangle leftGooseRect = new Rectangle(20, 275, 50, 50);
