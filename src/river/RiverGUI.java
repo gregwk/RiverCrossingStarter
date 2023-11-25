@@ -17,6 +17,10 @@ import river.GameEngine.Location;
  * 
  * @author Gregory Kulczycki
  */
+
+/**
+ * This is a modification to the RiverGUI.java for CS-5704
+ */
 public class RiverGUI extends JPanel implements MouseListener {
 
     // ==========================================================
